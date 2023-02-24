@@ -1,0 +1,9 @@
+﻿  Bullet.cpp
+C:\Users\DAC\Downloads\GAME1007_M4\GAME1007_W05_Framework\Bullet.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Enemy.cpp
+C:\Users\DAC\Downloads\GAME1007_M4\GAME1007_W05_Framework\Enemy.h(4,10): fatal error C1083: Cannot open include file: 'SDL_rect.h': No such file or directory
+  Engine.cpp
+C:\Users\DAC\Downloads\GAME1007_M4\GAME1007_W05_Framework\Engine.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Main.cpp
+C:\Users\DAC\Downloads\GAME1007_M4\GAME1007_W05_Framework\Main.cpp(1,10): fatal error C1083: Cannot open include file: 'SDL_main.h': No such file or directory
+  Generating Code...
